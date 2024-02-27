@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\justi\source\repos\CS-405 Milestone\CS-405 Milestone\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\justi\source\repos\CS-405 Milestone\CS-405 Milestone\test.cpp(213,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  CS-405 Milestone.vcxproj -> C:\Users\justi\source\repos\CS-405 Milestone\Debug\CS-405 Milestone.exe
